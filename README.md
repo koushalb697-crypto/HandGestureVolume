@@ -86,8 +86,8 @@ HandGestureVolume/
 ├── README.md
 ├── .gitignore
 ├── LICENSE
-└── demo/                     # Optional: add your demo video or GIF
-    └── hand-gesture-demo.mp4
+└── Demo/                     
+    └── HandGestureVolumeDemo.mp4
 ```
 
 ## Troubleshooting
